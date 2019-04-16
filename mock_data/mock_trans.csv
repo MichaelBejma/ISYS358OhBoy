@@ -1,1 +1,1 @@
-"trans_id";"account_id";"date";"type";"operation";"amount";"new_balance";"account_to_or_from"
+"trans_id";"account_id";"date";"merchant_type";"operation";"amount";"new_balance";"account_to";"account_from"

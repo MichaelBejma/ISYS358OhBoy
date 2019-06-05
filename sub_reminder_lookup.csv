@@ -1,0 +1,396 @@
+client_id,subscriptions
+1,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+2,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+3,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-28   2019-06-28  World of Warcraft  19.99
+1   2019-04-15   2019-06-03            Spotify     20
+2   2019-03-19   2019-06-22            Audible  19.99"
+4,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-19   2019-06-19        Spotify   9.99"
+5,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-15   2019-06-05        Netflix  14.99
+1   2019-05-01   2019-06-18       Dashlane  14.99
+2   2019-04-24   2019-06-15    Apple Music  19.99"
+6,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-17   2019-06-03               Hulu     15
+1   2019-04-17   2019-06-17  Dollar Shave Club     20
+2   2019-02-06   2019-06-24  World of Warcraft     20"
+7,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-30   2019-06-06  World of Warcraft  14.99"
+8,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-23   2019-06-23  World of Warcraft     10"
+9,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+10,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-04-03   2019-06-03            Spotify     10
+1   2019-02-16   2019-06-03  World of Warcraft  19.99"
+11,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-21   2019-06-21  World of Warcraft  14.99
+1   2019-03-03   2019-06-27            Netflix     15"
+12,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-16   2019-06-21        Audible   9.99
+1   2019-04-09   2019-06-11        Spotify   9.99"
+13,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+14,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-22   2019-06-10               Hulu     10
+1   2019-05-20   2019-06-08            Netflix     10
+2   2019-04-29   2019-06-22           Dashlane     10
+3   2019-04-15   2019-06-08            Audible     10
+4   2019-04-09   2019-06-06  World of Warcraft  14.99"
+15,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-31   2019-06-10  Dollar Shave Club   9.99
+1   2019-04-05   2019-06-30             HBO Go   9.99"
+16,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+17,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+18,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-31   2019-06-18       Dashlane     10
+1   2019-05-23   2019-06-30           Hulu   9.99
+2   2019-04-18   2019-06-30         HBO Go   9.99
+3   2019-03-28   2019-06-03    Apple Music   9.99"
+19,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+20,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+21,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-25   2019-06-25  World of Warcraft  14.99
+1   2019-05-10   2019-06-10            Netflix     15
+2   2019-04-20   2019-07-01            Audible   9.99"
+22,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-04-26   2019-06-23  World of Warcraft     20
+1   2019-03-28   2019-06-09            Audible  19.99"
+23,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-24   2019-06-29        Audible   9.99
+1   2019-04-10   2019-06-22        Spotify   9.99"
+24,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+25,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+26,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+27,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-09   2019-06-23  World of Warcraft   9.99"
+28,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+29,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-02   2019-06-02        Spotify  14.99"
+30,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-22   2019-06-26        Spotify     10"
+31,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+32,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+33,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-25   2019-06-25  World of Warcraft   9.99
+1   2019-04-11   2019-06-30            Spotify     20"
+34,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+35,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-31   2019-06-30  World of Warcraft   9.99
+1   2019-05-07   2019-06-05        Apple Music     10
+2   2019-03-23   2019-06-07            Netflix  19.99
+3   2019-02-16   2019-06-17             HBO Go  19.99"
+36,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-02-19   2019-06-05        Spotify     15"
+37,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+38,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-30   2019-06-02           Dashlane  14.99
+1   2019-04-28   2019-06-12             HBO Go  19.99
+2   2019-02-21   2019-06-06  Dollar Shave Club  14.99"
+39,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-22   2019-06-12       Dashlane   9.99
+1   2019-03-31   2019-06-22        Audible  14.99"
+40,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+41,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-01-27   2019-06-19        Spotify  14.99"
+42,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-22   2019-06-26        Spotify  19.99"
+43,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-22   2019-06-22        Spotify   9.99"
+44,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-10   2019-06-04        Audible     10
+1   2019-05-07   2019-06-14        Netflix     10
+2   2019-04-16   2019-06-10       Dashlane     10"
+45,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-20   2019-06-27  Dollar Shave Club   9.99
+1   2019-05-06   2019-06-13             HBO Go   9.99
+2   2019-03-23   2019-06-20            Netflix  14.99"
+46,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-16   2019-06-16  World of Warcraft     10"
+47,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+48,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+49,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+50,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-28   2019-06-28  World of Warcraft   9.99
+1   2019-04-23   2019-06-14            Spotify     15"
+51,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-23   2019-06-20  Dollar Shave Club   9.99
+1   2019-05-16   2019-06-03        Apple Music   9.99
+2   2019-04-08   2019-06-13  World of Warcraft     10
+3   2019-03-28   2019-06-23               Hulu   9.99
+4   2019-03-21   2019-06-30            Netflix   9.99
+5   2019-02-11   2019-06-16            Audible     20"
+52,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+53,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-29   2019-06-12            Spotify     10
+1   2019-05-26   2019-06-05  Dollar Shave Club   9.99
+2   2019-04-24   2019-06-26             HBO Go     10
+3   2019-02-27   2019-06-19            Netflix  14.99"
+54,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-06   2019-06-27        Spotify   9.99
+1   2019-04-29   2019-06-06        Audible   9.99
+2   2019-03-20   2019-06-20         HBO Go     20"
+55,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-15   2019-06-15        Netflix     15"
+56,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-03-29   2019-06-23        Netflix  19.99"
+57,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-31   2019-06-27  World of Warcraft   9.99
+1   2019-05-24   2019-06-07            Spotify   9.99"
+58,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+59,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-08   2019-06-21        Netflix     10
+1   2019-01-29   2019-06-28           Hulu   9.99"
+60,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-02-12   2019-06-02  World of Warcraft  19.99"
+61,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+62,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-31   2019-06-22  Dollar Shave Club   9.99
+1   2019-03-27   2019-06-07            Audible   9.99"
+63,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-21   2019-06-26           Hulu  14.99
+1   2019-03-22   2019-06-02       Dashlane  14.99"
+64,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-08   2019-06-22            Netflix     10
+1   2019-04-10   2019-06-12  Dollar Shave Club     10"
+65,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-24   2019-06-30       Dashlane   9.99
+1   2019-02-23   2019-06-24        Netflix     10"
+66,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-16   2019-06-16        Spotify     15
+1   2019-04-29   2019-06-06       Dashlane     15
+2   2019-03-28   2019-06-06        Audible     15"
+67,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+68,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-30   2019-06-30  World of Warcraft     10
+1   2019-05-23   2019-06-09             HBO Go     10
+2   2019-05-09   2019-06-23               Hulu     10"
+69,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+70,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+71,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+72,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-03-24   2019-06-23    Apple Music     10"
+73,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-19   2019-06-19               Hulu     10
+1   2019-05-07   2019-06-12        Apple Music   9.99
+2   2019-02-10   2019-06-07  Dollar Shave Club     10"
+74,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+75,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+76,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+77,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-26   2019-06-26  World of Warcraft   9.99"
+78,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-03-20   2019-06-05  World of Warcraft   9.99"
+79,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+80,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+81,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-04-25   2019-06-13               Hulu     15
+1   2019-03-04   2019-06-27  Dollar Shave Club   9.99"
+82,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-02-27   2019-06-12        Netflix   9.99"
+83,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+84,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+85,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+86,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+87,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-16   2019-06-21    Apple Music   9.99
+1   2019-03-24   2019-06-11        Netflix  19.99"
+88,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-25   2019-06-18        Audible   9.99
+1   2019-02-12   2019-06-25        Netflix   9.99"
+89,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-27   2019-06-14  Dollar Shave Club  19.99
+1   2019-05-14   2019-06-06  World of Warcraft     10
+2   2019-03-21   2019-06-27        Apple Music     10"
+90,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+91,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-24   2019-06-22        Audible   9.99
+1   2019-04-10   2019-06-29       Dashlane   9.99"
+92,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-23   2019-06-23  World of Warcraft     10"
+93,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-28   2019-06-23        Spotify     15"
+94,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-18   2019-06-07           Dashlane  14.99
+1   2019-05-07   2019-06-21  World of Warcraft     15
+2   2019-03-29   2019-06-11             HBO Go     20
+3   2019-03-16   2019-06-04  Dollar Shave Club  14.99
+4   2019-03-08   2019-06-18            Netflix     20"
+95,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-20   2019-06-20        Spotify  14.99"
+96,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-26   2019-06-09  World of Warcraft  14.99
+1   2019-02-20   2019-06-19            Netflix  19.99"
+97,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+98,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-04-19   2019-06-28        Spotify     10"
+99,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-25   2019-06-25        Spotify   9.99"
+100,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+101,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+102,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-28   2019-06-28  World of Warcraft     15"
+103,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-29   2019-06-27  Dollar Shave Club   9.99
+1   2019-03-27   2019-06-29               Hulu   9.99"
+104,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+105,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-28   2019-06-04  World of Warcraft     10
+1   2019-02-19   2019-06-27            Netflix     10"
+106,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-27   2019-06-27  World of Warcraft     10
+1   2019-05-19   2019-06-26           Dashlane   9.99
+2   2019-04-05   2019-06-19            Netflix  14.99
+3   2019-03-22   2019-06-12               Hulu  14.99"
+107,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+108,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-03-28   2019-06-28        Netflix  14.99"
+109,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-21   2019-06-04  World of Warcraft   9.99
+1   2019-02-12   2019-06-11        Apple Music   9.99"
+110,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-23   2019-06-30           Hulu     15
+1   2019-05-16   2019-06-06    Apple Music     15
+2   2019-02-28   2019-06-16        Audible     15"
+111,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-02-23   2019-06-29  World of Warcraft     20"
+112,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+113,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+114,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+115,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-11   2019-06-11  World of Warcraft     10
+1   2019-04-11   2019-06-09             HBO Go     10"
+116,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+117,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+118,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+119,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+120,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-28   2019-06-28  World of Warcraft  14.99
+1   2019-04-09   2019-06-07           Dashlane   9.99"
+121,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+122,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+123,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-04-22   2019-06-27  Dollar Shave Club   9.99
+1   2019-04-09   2019-06-20            Audible     10
+2   2019-04-02   2019-06-28  World of Warcraft     10"
+124,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+125,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+126,"  Last Payment Next Payment     Name of Vendor Amount
+0   2019-05-27   2019-06-27  World of Warcraft  14.99"
+127,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+128,"  Last Payment Next Payment Name of Vendor Amount
+0   2019-05-31   2019-06-18        Netflix   9.99
+1   2019-05-18   2019-06-07        Spotify   9.99"
+129,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
+130,"Empty DataFrame
+Columns: [Last Payment, Next Payment, Name of Vendor, Amount]
+Index: []"
